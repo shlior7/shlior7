@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Lior Shtaimberg
-- 🌱 currently Studying in The Academic College of Tel-Aviv Yaffo
+- 👋 Hi, Lior Shtaimberg here
+- 🏫 Currently Studying in The Academic College of Tel-Aviv Yaffo
+- 👷 Working happily at @wix on performance infrastructure 
+- 🧠 Excited of any deep learning and neurons related stuff
+- 🎲 love game solving algorithms (kakuro, griddler, sudoku and looking for more)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shlior7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
