@@ -1,8 +1,4 @@
-- 👋 Hi, Lior Shtaimberg here
-- 🏫 Currently Studying in The Academic College of Tel-Aviv Yaffo
-- 👷 Working happily at @wix on performance infrastructure 
-- 🧠 Excited of any deep learning and neurons related stuff
-- 🎲 love game solving algorithms (kakuro, griddler, sudoku and looking for more)
+- 👷 @wix Infra Perfer
 ---
 
 ### Languages and Tools:
