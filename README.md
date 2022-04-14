@@ -1,4 +1,4 @@
-- 👷 @wix Infra Perfer
+- 👷 @wix FED Infra - Performance team 
 ---
 
 ### Languages and Tools:
