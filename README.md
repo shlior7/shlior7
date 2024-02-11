@@ -1,4 +1,4 @@
-- 👷 @wix FED Infra - Performance & Monitoring team 
+- 👷 @wix/Dev Tools - Development of infrastructure tools 
 ---
 
 ### Languages and Tools:
